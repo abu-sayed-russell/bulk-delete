@@ -1,0 +1,20 @@
+{
+    "name": "getweb/bulk-delete",
+    "description": "Awesome Bulk Post Delete Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Abu Sayed Russell",
+            "email": "abusayedrussell@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Inc\\": "./inc" },
+        "files": [
+            "./inc/Helper/helper.php"
+        ]
+    }
+}

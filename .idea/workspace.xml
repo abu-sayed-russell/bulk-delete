@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3e2723c-d191-4cba-bb2b-703bd59e86b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UgWql2zFVtSkecguL1ImIk6jbj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\plugins\wp-content\plugins\Bulk-Delete\templates" />
+      <recent name="E:\xampp\htdocs\plugins\wp-content\plugins\Bulk-Delete\assets\js" />
+      <recent name="E:\xampp\htdocs\plugins\wp-content\plugins\Bulk-Delete\inc\Base" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3e2723c-d191-4cba-bb2b-703bd59e86b2" name="Default Changelist" comment="" />
+      <created>1575778911159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575778911159</updated>
+      <workItem from="1575778912509" duration="654000" />
+      <workItem from="1575779575486" duration="24333000" />
+      <workItem from="1575862664221" duration="28394000" />
+      <workItem from="1576034387160" duration="2498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="426" key="#WordPress" timestamp="1575778940373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="426" key="#WordPress/0.0.1920.1040@0.0.1920.1040" timestamp="1575778940373" />
+    <state x="503" y="61" width="958" height="835" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575782449728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="503" y="61" width="958" height="835" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575782449728" />
+    <state x="627" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1575883441226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575883441226" />
+    <state x="690" y="195" key="FileChooserDialogImpl" timestamp="1575779570631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="195" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575779570631" />
+    <state x="599" y="289" key="NewPhpClassDialog" timestamp="1575883322461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="289" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575883322461" />
+    <state x="561" y="189" width="973" height="754" key="find.popup" timestamp="1575782773280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="189" width="973" height="754" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575782773280" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1575889981353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575889981353" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>E:\xampp\htdocs\plugins</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/inc/Base/Controller.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

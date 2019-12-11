@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  setInterval(function () {    $('#refresh').load(location.href);  }, minute);  console.log(minute);});

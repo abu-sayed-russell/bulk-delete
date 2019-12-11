@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {  jQuery('.panel-collapse').on('show.bs.collapse', function () {    jQuery(this).siblings('.panel-heading').addClass('active');  });  jQuery('.panel-collapse').on('hide.bs.collapse', function () {    jQuery(this).siblings('.panel-heading').removeClass('active');  });});
